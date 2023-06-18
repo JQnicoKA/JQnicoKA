@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JQnicoKA
-- 👀 I’m interested in Cybersecurity, programming and Networks
-- 🌱 I’m currently a 3rd year Computer engineer Student
-- 💞️ I’m looking for an internship in September 2022 in the field of computer engineering.
+- 👀 I’m interested in Data Science, programming and Machine Learning
+- 🌱 I’m currently a 4th year Computer engineer Student in Data Science field
+- 💞️ I’m looking for a part-time job in the field of computer engineering.
 - 📫 How to reach me : nicolas.lecas@utbm.fr
 
 <!---
