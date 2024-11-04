@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JQnicoKA
 - 👀 I’m interested in Data Science, programming and Machine Learning
-- 🌱 I’m currently a 4th year Computer engineer Student in Data Science field
-- 💞️ I’m looking for a part-time job in the field of computer engineering.
+- 🌱 I’m currently a 5th year Computer engineer Student in IA Field
 - 📫 How to reach me : nicolas.lecas@utbm.fr
 
 <!---
