@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @JQnicoKA
 - 👀 I’m interested in Data Science, programming and Machine Learning
-- 🌱 I’m currently a 5th year Computer engineer Student in IA Field
-- 📫 How to reach me : nicolas.lecas@utbm.fr
+- 🌱 I am a recent graduate of Computer Engineering and Entrepreneurship
+- 🎓 I am interested in joining a PhD soon ...
+- 📫 How to reach me : nicolas.lcspro@gmail.com
 
 <!---
 JQnicoKA/JQnicoKA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
