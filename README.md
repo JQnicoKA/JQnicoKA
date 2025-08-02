@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JQnicoKA
 - 👀 I’m interested in Data Science, programming and Machine Learning
 - 🌱 I am a recent graduate of Computer Engineering and Entrepreneurship
-- 🎓 I am interested in joining a PhD soon ...
+- 🎓 I am looking for an interesting PhD in the field of IA ...
 - 📫 How to reach me : nicolas.lcspro@gmail.com
 
 <!---
